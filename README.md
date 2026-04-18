@@ -1,25 +1,59 @@
-<h1 align="center">Hi 👋, I'm Vishnu Satheesh</h1>
-<h3 align="center">MERN stack developer | Freelancer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="Coding">
+<h1 align="center">Vishnu Satheesh</h1>
+<h3 align="center">Software Engineer | Full-Stack • Systems Design • DevOps • Security • Freelance</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusatheeshpulickal&label=Profile%20views&color=0e75b6&style=flat" alt="vishnusatheeshpulickal" /> </p>
-
-- 💬 Ask me about **React,Node js,PHP,Javascript**
-
-- 📫 How to reach me **vishnusatheeshpulickal555@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vishnus01350768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnus01350768" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnu-satheesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-satheesh/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14187212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14187212/vishnu-satheesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishnusatheesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishnusatheesh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/> </a>
+---
+
+## Who I Am
+
+I design and build systems that don’t fall apart in production.
+
+My work sits at the intersection of:
+- **System Design** — scalable, failure-aware architectures  
+- **DevOps** — deployment, automation, infrastructure reliability  
+- **Security** — identifying and eliminating real-world attack paths  
+- **Full-Stack Engineering** — building and shipping end-to-end systems  
+
+I work both independently and with teams to deliver **production-ready systems**, not just features.
+
+I don’t chase tools. I focus on **trade-offs, bottlenecks, and failure modes**.
+
+---
+
+## What I Work On
+
+- Designing **distributed systems and service architectures**
+- Building and deploying **production-grade full-stack applications**
+- Hardening infrastructure and fixing **real-world security gaps**
+- Creating **CI/CD pipelines that don’t break under pressure**
+- Debugging production issues most people can’t reproduce locally
+
+---
+
+## Writing
+
+I write about things that actually matter in production:
+- system design trade-offs  
+- infrastructure failures  
+- security weaknesses in modern architectures  
+- debugging stories from real systems  
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://twitter.com/vishnus01350768"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
+  <a href="https://linkedin.com/in/vishnu-satheesh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+  <a href="https://stackoverflow.com/users/14187212/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/></a>
+  <a href="https://www.hackerrank.com/vishnusatheesh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a>
 </p>
 
+---
 
+## Contact
+
+📧 vishnusatheeshpulickal555@gmail.com
