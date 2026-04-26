@@ -12,7 +12,7 @@
 I design and build systems that don’t fall apart in production.
 
 My work sits at the intersection of:
-- **System Design** — scalable, failure-aware architectures  
+- **System Design** - scalable, failure-aware architectures  
 - **DevOps** — deployment, automation, infrastructure reliability  
 - **Security** — identifying and eliminating real-world attack paths  
 - **Full-Stack Engineering** — building and shipping end-to-end systems  
@@ -46,7 +46,6 @@ I write about things that actually matter in production:
 ## Connect
 
 <p align="center">
-  <a href="https://twitter.com/vishnus01350768"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
   <a href="https://linkedin.com/in/vishnu-satheesh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
   <a href="https://stackoverflow.com/users/14187212/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/></a>
   <a href="https://www.hackerrank.com/vishnusatheesh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a>
@@ -56,4 +55,4 @@ I write about things that actually matter in production:
 
 ## Contact
 
-📧 vishnusatheeshpulickal555@gmail.com
+📧 ping@vishnusatheesh.com
