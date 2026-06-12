@@ -13,9 +13,9 @@ I design and build systems that don’t fall apart in production.
 
 My work sits at the intersection of:
 - **System Design** - scalable, failure-aware architectures  
-- **DevOps** — deployment, automation, infrastructure reliability  
-- **Security** — identifying and eliminating real-world attack paths  
-- **Full-Stack Engineering** — building and shipping end-to-end systems  
+- **DevOps** - deployment, automation, infrastructure reliability  
+- **Security** - identifying and eliminating real-world attack paths  
+- **Full-Stack Engineering** - building and shipping end-to-end systems  
 
 I work both independently and with teams to deliver **production-ready systems**, not just features.
 
